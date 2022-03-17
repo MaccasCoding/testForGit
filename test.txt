@@ -1,3 +1,5 @@
 This is a test for git, push to GitHub repository 
 
 Now lets make some changes for testing.
+
+Now let me pretend this is the second person coding to it. 
